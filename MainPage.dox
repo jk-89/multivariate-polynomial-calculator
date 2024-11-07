@@ -1,0 +1,21 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+### Część I
+
+Implementacja tej części zadania znajduje się w `poly.c` (korzysta również z funkcji ogólnych zaimplementowanych w `utilities.c`). Umożliwia wykonywanie podstawowych operacji na wielomianach rzadkich wielu zmiennych.
+
+### Część II
+
+Umożliwia korzystanie z kalkulatora dla wielomianów rzadkich wielu zmiennych przy zastosowaniu odwróconej notacji polskiej.
+
+### Część III
+
+Dodaje nowe funkcje do kalkulatora oraz umożliwia wykonywanie nowych operacji na wielomianach rzadkich wielu zmiennych.
+
+*/
